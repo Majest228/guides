@@ -1,0 +1,16 @@
+.flag {
+	border-radius: 8px;
+	max-width: 200px;
+	width: 100%;
+	text-decoration: none;
+	color: #ccc;
+	margin-top: 20px;
+}
+
+.flags-list {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+}

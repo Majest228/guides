@@ -1,0 +1,44 @@
+{
+	"flags": [
+		{
+			"_id": 0,
+			"url": "https://www.megaflag.ru/sites/default/files/styles/h_100/public/images/shop/products/flag_england1.jpg?itok=DSeHuvmb",
+			"name": "Флаг Англии"
+		},
+		{
+			"_id": 1,
+			"url": "https://www.megaflag.ru/sites/default/files/styles/h_100/public/images/shop/products/flag_rf_enl.jpg?itok=ULSeepRk",
+			"name": "Флаг России"
+		},
+		{
+			"_id": 2,
+			"url": "https://www.megaflag.ru/sites/default/files/styles/h_100/public/images/directory_names/flag_andorra_enl.jpg?itok=CbMmLiT3",
+			"name": "Флаг страны Андорра"
+		},
+		{
+			"_id": 3,
+			"url": "https://www.megaflag.ru/sites/default/files/styles/h_100/public/images/directory_names/flag_belorussija_enl.jpg?itok=hoRZoT7k",
+			"name": "Флаг страны Беларусь"
+		},
+		{
+			"_id": 4,
+			"url": "https://www.megaflag.ru/sites/default/files/styles/h_100/public/images/directory_names/flag_albaniya_enl.jpg?itok=yWnZE_iK",
+			"name": "Флаг страны Албания"
+		},
+		{
+			"_id": 5,
+			"url": "https://www.megaflag.ru/sites/default/files/styles/h_100/public/images/shop/products/flag_kazahstan_new.jpg?itok=WnAUG1WN",
+			"name": "Флаг страны Казахстан"
+		},
+		{
+			"_id": 6,
+			"url": "https://www.megaflag.ru/sites/default/files/styles/h_100/public/images/shop/products/flag_kanada_new.jpg?itok=YGkeJqeS",
+			"name": "Флаг страны Канада"
+		},
+		{
+			"_id": 7,
+			"url": "https://www.megaflag.ru/sites/default/files/styles/h_100/public/images/directory_names/flag_germanija_enl.jpg?itok=ajc0p1k8",
+			"name": "Флаг страны Германия"
+		}
+	]
+}
